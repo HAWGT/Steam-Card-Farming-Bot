@@ -1,0 +1,8 @@
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\bin\Debug\Steam Card Farming Bot.exe.config
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\bin\Debug\Steam Card Farming Bot.exe
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\bin\Debug\Steam Card Farming Bot.pdb
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\obj\Debug\Steam_Card_Farming_Bot.Properties.Resources.resources
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\obj\Debug\Steam Card Farming Bot.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\obj\Debug\Steam Card Farming Bot.exe
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\obj\Debug\Steam Card Farming Bot.pdb
+C:\Users\HOME\Desktop\steam troller\Steam Card Farming Bot\Steam Card Farming Bot\obj\Debug\Steam Card Farming Bot.csprojResolveAssemblyReference.cache
